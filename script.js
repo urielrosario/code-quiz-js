@@ -109,3 +109,6 @@ highscore.addEventListener("click", function () {
   var lastScore = JSON.stringify(localStorage.getItem(score));
   lastScore.textContent = "";
 });
+restart.addEventListener("click", function () {
+  window.location.assign("index.html");
+});
