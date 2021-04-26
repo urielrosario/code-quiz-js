@@ -31,9 +31,9 @@ THEN I can save my initials and my score
 
 ## Links
 
-- Link to Github Repository: https://github.com/urielrosario/js-code-quiz.git
+- Link to Github Repository: https://github.com/urielrosario/code-quiz-js.git
 
-- Link to deployed website: https://urielrosario.github.io/js-code-quiz/
+- Link to deployed website: https://urielrosario.github.io/code-quiz-js/
 
 ## Resources
 
